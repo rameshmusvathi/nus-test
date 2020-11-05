@@ -8,3 +8,5 @@ First line
 * this is another one!
 
 ### this is even smaller headline
+
+!download.gif
