@@ -4,7 +4,7 @@ First line
 
 ## This is Second headline
 
-*this is a list item
-*this is another one!
+* this is a list item
+* this is another one!
 
 ### this is even smaller headline
