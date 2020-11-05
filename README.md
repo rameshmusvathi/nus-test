@@ -9,4 +9,4 @@ First line
 
 ### this is even smaller headline
 
-! download.gif
+![](download.gif)
